@@ -1,6 +1,6 @@
 # nightlyHacks
 
-Please open an issue for any bugs/comments/suggestions for the nightly hacks located at https://codetract.io/.
+Please open an issue for any bugs/comments/suggestions for the nightlyHacks located at https://codetract.io/.
 
 The current list of nightlyHacks are:
 
